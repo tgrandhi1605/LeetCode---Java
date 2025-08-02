@@ -1,4 +1,4 @@
-package Arrays;
+package HashMaps;
 
 public class SubArraySum {
     public static int subArraySum(int[] nums, int total) {
